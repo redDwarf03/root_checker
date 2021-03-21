@@ -1,11 +1,11 @@
 name: root_checker
 description: Plugin used for detecting root device in android and ios.
-version: 0.1.3
+version: 0.1.4
 author: Ricky Azhari <Ricky.azhari.pratama@gmail.com, kh4ri3@gmail.com>
 homepage: https://github.com/rickyazhari/root_checker
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
